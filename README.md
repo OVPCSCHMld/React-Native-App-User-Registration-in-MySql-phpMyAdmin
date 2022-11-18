@@ -1,1 +1,0 @@
-# React-Native-App-User-Registration-in-MySql-phpMyAdmin
